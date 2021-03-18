@@ -5,7 +5,7 @@ export const darkGrey = "#515263";
 export const lightGrey = "#f7f7f7";
 export const medGrey = '#dad9d9';
 export const brandColor = '#1DDA65';
-
+export const darkerGrey = '#353131';
 
 
 export const GlobalStyle = createGlobalStyle`
