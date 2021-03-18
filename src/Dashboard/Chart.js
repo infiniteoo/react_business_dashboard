@@ -2,7 +2,7 @@ import React from "react";
 import { Card } from "./Card";
 import Highcharts from "highcharts";
 import HighchartsReact from "highcharts-react-official";
-import {chartData} from './Data'
+import {chartData, tableRows} from './Data'
 
 const options = {
   chart: {
@@ -48,3 +48,6 @@ export function Chart() {
     </Card>
   );
 }
+
+
+
