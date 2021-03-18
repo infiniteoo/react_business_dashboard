@@ -3,6 +3,8 @@ import { Brand } from "./Brand";
 import { Container } from "./Container";
 import { GlobalStyle } from "./GlobalStyle";
 import { Card } from './Card' 
+import { Chart } from './Chart'
+
 
 export function Dashboard() {
   return (
@@ -10,12 +12,11 @@ export function Dashboard() {
       <GlobalStyle />
       <Container>
         <Brand />
+        <Chart/>
         <Card height={400}>
             Chart goes here
         </Card>
-        <Card height={400}>
-            Table Goes Here
-        </Card>
+       
       </Container>
     </>
   );
