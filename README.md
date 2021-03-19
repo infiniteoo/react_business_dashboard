@@ -169,14 +169,6 @@ Project Link: [https://github.com/infiniteoo/react_business_dashboard](https://g
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
 
 
 
